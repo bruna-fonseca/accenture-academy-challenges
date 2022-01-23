@@ -1,3 +1,7 @@
+<div align="center" >
+  <img src="accenture-logo.png" />
+</div>
+
 # Accenture Academy Challenges
 
 Esse repositório guardará todos os desafios propostos durante a Accenture Academy. Cada atividade terá uma branch com seu respectivo projeto para entrega.
