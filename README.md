@@ -1,8 +1,8 @@
-# Projeto calculadora
+# Projeto BookStore
 
-Desenvolvido uma calculadora com ReactJS para Accenture Academy.
+Desenvolvido com ReactJS para Accenture Academy.
 
-Você pode checar o resultado nesse [link](https://challenge-calculator.netlify.app/)
+Você pode checar o resultado nesse [link](https://bookstore-beco-diagonal.netlify.app/)
 
 ## 🖥️ Para rodar localmente
 
