@@ -14,7 +14,7 @@ $ git clone https://github.com/bruna-fonseca/accenture-academy-challenges.git
 $ cd accenture-academy-challenges
 
 # Mude a branch para o projeto da calculadora
-$ git checkout project/calculator
+$ git checkout project/bookstore
 
 # Instale as dependências
 $ npm install
