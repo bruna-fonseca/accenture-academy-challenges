@@ -13,7 +13,7 @@ $ git clone https://github.com/bruna-fonseca/accenture-academy-challenges.git
 # Navegue até a pasta do projeto
 $ cd accenture-academy-challenges
 
-# Mude a branch para o projeto da calculadora
+# Mude a branch para o projeto da BookStore
 $ git checkout project/bookstore
 
 # Instale as dependências
