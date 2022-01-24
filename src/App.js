@@ -1,19 +1,21 @@
 import React from 'react';
-import './App.css';
+import { Route, BrowserRouter, Routes } from 'react-router-dom';
 
-import Inputs from './components/Inputs';
+import ReposList from './pages/ReposList';
+import RepoDetails from './pages/RepoDetails';
 
-const CONTAINER_STYLES = {
-  display: 'flex',
-  justifyContent: 'center',
-  alignItems: 'center',
-}
+import GlobalStyles from './styles/Global';
+
 
 function App() {
   return (
-    <div style={ CONTAINER_STYLES }>
-     <Inputs />
-    </div>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<ReposList />} />
+        <Route path="/detalhes/:details" element={<RepoDetails />} />
+      </Routes>
+     <GlobalStyles />
+    </BrowserRouter>
   );
 }
 
