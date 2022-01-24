@@ -2,7 +2,7 @@
 
 Desenvolvido com ReactJS para Accenture Academy. Aplicação lista todos os meus repositórios e possui uma tela para detatalhar o repositório selecionado.
 
-Você pode checar o resultado nesse [link]()
+Você pode checar o resultado nesse [link](https://repo-list-github.netlify.app/)
 
 ## 🖥️ Para rodar localmente
 
