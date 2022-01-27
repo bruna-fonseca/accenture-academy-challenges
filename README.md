@@ -1,8 +1,8 @@
-# Projeto BookStore
+# Projeto Personal Portfolio
 
 Desenvolvido com ReactJS para Accenture Academy.
 
-Você pode checar o resultado nesse [link](https://bookstore-beco-diagonal.netlify.app/)
+Você pode checar o resultado nesse [link]()
 
 ## 🖥️ Para rodar localmente
 
@@ -13,8 +13,8 @@ $ git clone https://github.com/bruna-fonseca/accenture-academy-challenges.git
 # Navegue até a pasta do projeto
 $ cd accenture-academy-challenges
 
-# Mude a branch para o projeto da calculadora
-$ git checkout project/bookstore
+# Mude a branch para o projeto do portfólio
+$ git checkout project/personal-portfolio
 
 # Instale as dependências
 $ npm install
