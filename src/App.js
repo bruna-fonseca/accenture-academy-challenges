@@ -1,19 +1,18 @@
 import React from 'react';
-import './App.css';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
-import Inputs from './components/Inputs';
-
-const CONTAINER_STYLES = {
-  display: 'flex',
-  justifyContent: 'center',
-  alignItems: 'center',
-}
+import { Home, About } from './pages';
+import GlobalStyles from './styles/GlobalStyles';
 
 function App() {
   return (
-    <div style={ CONTAINER_STYLES }>
-     <Inputs />
-    </div>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={ <Home/> } />
+        <Route path="/sobre" element={ <About/> }  />
+      </Routes>
+      <GlobalStyles />
+    </BrowserRouter>
   );
 }
 
