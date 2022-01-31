@@ -2,7 +2,7 @@
 
 Desenvolvido com ReactJS para Accenture Academy.
 
-Você pode checar o resultado nesse [link]()
+Você pode checar o resultado nesse [link](https://portfolio-bruna-fonseca.netlify.app/)
 
 ## 🖥️ Para rodar localmente
 
