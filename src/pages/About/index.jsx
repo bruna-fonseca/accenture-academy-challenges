@@ -20,7 +20,7 @@ export default function About() {
 
         <S.WhiteBg >
           <Fade right>
-            <img src={ BrunaImg } style={{ marginBottom: '40px' }} height={260} />
+            <img alt="Foto de Bruna" src={ BrunaImg } style={{ marginBottom: '40px' }} height={260} />
             <S.Paragraph>
               Oie, tudo bem?
             </S.Paragraph>
